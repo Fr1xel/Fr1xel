@@ -7,7 +7,11 @@
 
 - 👯 I’m looking to collaborate with **many other teen programmers**
 
+- 💬 Ask me about **React, JS**
+
 - 📫 How to reach me **radosivan54@gmail.com**
+
+- 📄 Goals for 2022: **Learn a backend language, learn more about React, be a better person**
 
 - ⚡ Fun fact **I like to learn new stuff!**
 

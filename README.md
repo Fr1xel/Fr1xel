@@ -3,10 +3,6 @@
 <h3 align="center">A very passionate teen programmer!</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e4732aib0sp4sieahrurni1bjdw7yjztbqz3z60j37r&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://miro.medium.com/max/2400/1*9S3JhMtLGiacpNpziWGN1A.gif" alt="fr1xel" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fr1xel" alt="fr1xel" /></a> </p>
-
 - 🌱 I’m currently learning **C++ and JS but would like to learn other languages**
 
 - 👯 I’m looking to collaborate with **many other teen programmers**
